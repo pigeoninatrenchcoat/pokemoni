@@ -47,3 +47,4 @@ def attack(nasi, vasi, zoz):
 citatelne()
 
 print(attack(2,6,"Psychic Dark,Fire,Ghost,Fairy Electric,Normal Steel,Ghost,Poison Fire,Dark Bug"))
+
